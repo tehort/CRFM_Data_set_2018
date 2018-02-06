@@ -1,0 +1,193 @@
+Benchmark Imagem: 0G_CRFM_100cm
+    Iteracoes: 10 / 20
+    Avg: 29.047957 ms
+    Min: 28.707928 ms
+    Max: 29.554940 ms
+
+Benchmark Imagem: 0G_CRFM_125cm
+    Iteracoes: 10 / 20
+    Avg: 23.081503 ms
+    Min: 22.451735 ms
+    Max: 23.706845 ms
+
+Benchmark Imagem: 0G_CRFM_150cm
+    Iteracoes: 10 / 20
+    Avg: 23.481739 ms
+    Min: 23.031290 ms
+    Max: 24.233067 ms
+
+Benchmark Imagem: 0G_CRFM_175cm
+    Iteracoes: 10 / 20
+    Avg: 23.380525 ms
+    Min: 22.357711 ms
+    Max: 24.250845 ms
+
+Benchmark Imagem: 0G_CRFM_200cm
+    Iteracoes: 10 / 20
+    Avg: 21.555618 ms
+    Min: 20.802354 ms
+    Max: 23.132821 ms
+
+Benchmark Imagem: 0G_CRFM_25cm
+    Iteracoes: 10 / 20
+    Avg: 23.655053 ms
+    Min: 22.992179 ms
+    Max: 24.722943 ms
+
+Benchmark Imagem: 0G_CRFM_50cm
+    Iteracoes: 10 / 20
+    Avg: 27.510892 ms
+    Min: 26.925411 ms
+    Max: 28.372916 ms
+
+Benchmark Imagem: 0G_CRFM_75cm
+    Iteracoes: 10 / 20
+    Avg: 27.815366 ms
+    Min: 26.945559 ms
+    Max: 28.918496 ms
+
+Benchmark Imagem: 45G_CRFM_100cm
+    Iteracoes: 10 / 20
+    Avg: 21.923104 ms
+    Min: 20.101910 ms
+    Max: 23.802450 ms
+
+Benchmark Imagem: 45G_CRFM_125cm
+    Iteracoes: 10 / 20
+    Avg: 22.338116 ms
+    Min: 21.007391 ms
+    Max: 27.459139 ms
+
+Benchmark Imagem: 45G_CRFM_150cm
+    Iteracoes: 10 / 20
+    Avg: 21.910580 ms
+    Min: 21.387045 ms
+    Max: 22.290550 ms
+
+Benchmark Imagem: 45G_CRFM_175cm
+    Iteracoes: 10 / 20
+    Avg: 20.700468 ms
+    Min: 20.455095 ms
+    Max: 20.997514 ms
+
+Benchmark Imagem: 45G_CRFM_200cm
+    Iteracoes: 10 / 20
+    Avg: 22.787182 ms
+    Min: 21.204922 ms
+    Max: 27.551583 ms
+
+Benchmark Imagem: 45G_CRFM_25cm
+    Iteracoes: 10 / 20
+    Avg: 24.905975 ms
+    Min: 24.169462 ms
+    Max: 26.116325 ms
+
+Benchmark Imagem: 45G_CRFM_50cm
+    Iteracoes: 10 / 20
+    Avg: 25.479012 ms
+    Min: 24.602450 ms
+    Max: 26.228522 ms
+
+Benchmark Imagem: 45G_CRFM_75cm
+    Iteracoes: 10 / 20
+    Avg: 27.756423 ms
+    Min: 26.593164 ms
+    Max: 30.552470 ms
+
+Benchmark Imagem: 55G_CRFM_100cm
+    Iteracoes: 10 / 20
+    Avg: 24.004959 ms
+    Min: 23.390006 ms
+    Max: 24.978153 ms
+
+Benchmark Imagem: 55G_CRFM_125cm
+    Iteracoes: 10 / 20
+    Avg: 23.240871 ms
+    Min: 22.508624 ms
+    Max: 24.815783 ms
+
+Benchmark Imagem: 55G_CRFM_150cm
+    Iteracoes: 10 / 20
+    Avg: 21.622936 ms
+    Min: 21.273662 ms
+    Max: 21.897069 ms
+
+Benchmark Imagem: 55G_CRFM_175cm
+    Iteracoes: 10 / 20
+    Avg: 22.091044 ms
+    Min: 21.771440 ms
+    Max: 22.854698 ms
+
+Benchmark Imagem: 55G_CRFM_200cm
+    Iteracoes: 10 / 20
+    Avg: 21.590659 ms
+    Min: 20.941020 ms
+    Max: 22.160180 ms
+
+Benchmark Imagem: 55G_CRFM_25cm
+    Iteracoes: 10 / 20
+    Avg: 27.261411 ms
+    Min: 26.151881 ms
+    Max: 30.528371 ms
+
+Benchmark Imagem: 55G_CRFM_50cm
+    Iteracoes: 10 / 20
+    Avg: 28.934417 ms
+    Min: 27.899632 ms
+    Max: 32.868320 ms
+
+Benchmark Imagem: 55G_CRFM_75cm
+    Iteracoes: 10 / 20
+    Avg: 26.924581 ms
+    Min: 26.387732 ms
+    Max: 28.867928 ms
+
+Benchmark Imagem: 70G_CRFM_100cm
+    Iteracoes: 10 / 20
+    Avg: 23.080910 ms
+    Min: 22.371538 ms
+    Max: 24.301808 ms
+
+Benchmark Imagem: 70G_CRFM_125cm
+    Iteracoes: 10 / 20
+    Avg: 21.235657 ms
+    Min: 20.452725 ms
+    Max: 22.352180 ms
+
+Benchmark Imagem: 70G_CRFM_150cm
+    Iteracoes: 10 / 20
+    Avg: 19.706375 ms
+    Min: 19.242651 ms
+    Max: 20.850946 ms
+
+Benchmark Imagem: 70G_CRFM_175cm
+    Iteracoes: 10 / 20
+    Avg: 20.051342 ms
+    Min: 19.343392 ms
+    Max: 20.674749 ms
+
+Benchmark Imagem: 70G_CRFM_200cm
+    Iteracoes: 10 / 20
+    Avg: 20.025031 ms
+    Min: 19.344577 ms
+    Max: 20.793663 ms
+
+Benchmark Imagem: 70G_CRFM_25cm
+    Iteracoes: 10 / 20
+    Avg: 23.250352 ms
+    Min: 22.830994 ms
+    Max: 24.361067 ms
+
+Benchmark Imagem: 70G_CRFM_50cm
+    Iteracoes: 10 / 20
+    Avg: 24.084959 ms
+    Min: 23.813512 ms
+    Max: 24.368968 ms
+
+Benchmark Imagem: 70G_CRFM_75cm
+    Iteracoes: 10 / 20
+    Avg: 23.264416 ms
+    Min: 22.621217 ms
+    Max: 24.020129 ms
+
+Press any key to continue . . .
